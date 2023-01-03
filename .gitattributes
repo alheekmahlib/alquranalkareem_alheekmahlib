@@ -1,0 +1,2 @@
+/Users/hawazenmahmood/Desktop/alquranalkareem/assets/QuranData.sqlite filter=lfs diff=lfs merge=lfs -text
+/Users/hawazenmahmood/Desktop/alquranalkareem/assets/pages filter=lfs diff=lfs merge=lfs -text
